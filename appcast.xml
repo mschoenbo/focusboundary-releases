@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>FocusBoundary Updates</title>
-    <link>https://github.com/mschoenb/FocusBoundary</link>
+    <link>https://github.com/mschoenbo/focusboundary-releases</link>
     <description>Most recent updates to FocusBoundary</description>
     <language>en</language>
     <item>
       <title>Version 1.0.0</title>
-      <link>https://github.com/mschoenb/FocusBoundary/releases/tag/v1.0.0</link>
+      <link>https://github.com/mschoenbo/focusboundary-releases/releases/tag/v1.0.0</link>
       <pubDate>Sat, 03 Jan 2026 20:48:58 +0100</pubDate>
       <sparkle:version>1</sparkle:version>
       <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
@@ -25,7 +25,7 @@
         </ul>
       ]]></description>
       <enclosure 
-        url="https://github.com/mschoenb/FocusBoundary/releases/download/v1.0.0/FocusBoundary-1.0.0.zip"
+        url="https://github.com/mschoenbo/focusboundary-releases/releases/download/v1.0.0/FocusBoundary-1.0.0.zip"
         sparkle:edSignature="zYfvpNrM+jKisvegfZIuoXJaN/1kedC+siVOEbApUHf77uoie22DjLzY4SxUIMzgVVea+KqCBWhzQOml5Jc4Bg=="
         length="4105784"
         type="application/octet-stream"/>
