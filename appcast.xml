@@ -6,6 +6,35 @@
     <description>Most recent updates to FocusBoundary</description>
     <language>en</language>
     <item>
+      <title>Version 1.1.0</title>
+      <link>https://github.com/mschoenbo/focusboundary-releases/releases/tag/v1.1.0</link>
+      <pubDate>Sun, 04 Jan 2026 15:18:34 +0100</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <style>
+          body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
+          h2 { font-size: 16px; margin-bottom: 8px; }
+          ul { padding-left: 20px; }
+          li { margin-bottom: 4px; }
+        </style>
+        <h2>Was ist neu in 1.1.0</h2>
+        <ul>
+          <li>Neuer Dokument-Tab mit Wortziel-Fortschrittsanzeige</li>
+          <li>Schreib-Serie Tracking (mit Ruhetag-Unterstützung)</li>
+          <li>Focus Mode mit DND-Integration</li>
+          <li>Korrigierte Fortschrittsring-Animation</li>
+          <li>Deutsche Übersetzungen für alle neuen UI-Elemente</li>
+        </ul>
+      ]]></description>
+      <enclosure 
+        url="https://github.com/mschoenbo/focusboundary-releases/releases/download/v1.1.0/FocusBoundary-1.1.0.zip"
+        sparkle:edSignature="YPXU7O/Dh6cV9l5E5t9k2Z26y09liE3ProEmuIMEbaEX3x4Dnm53363eL1EHo7iPfVnBSkTNGQku3BRAKz0yBQ=="
+        length="4418486"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.0.0</title>
       <link>https://github.com/mschoenbo/focusboundary-releases/releases/tag/v1.0.0</link>
       <pubDate>Sat, 03 Jan 2026 20:48:58 +0100</pubDate>
