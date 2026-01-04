@@ -1,10 +1,73 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version="1.0" ?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>FocusBoundary Updates</title>
     <link>https://github.com/mschoenbo/focusboundary-releases</link>
     <description>Most recent updates to FocusBoundary</description>
     <language>en</language>
+    <item>
+      <title>Version 1.2.0</title>
+      <link>https://github.com/mschoenbo/focusboundary-releases/releases/tag/v1.2.0</link>
+      <pubDate>Sun, 04 Jan 2026 21:42:12 +0100</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;![CDATA[
+        &lt;style&gt;
+          body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
+          h2 { font-size: 16px; margin-bottom: 8px; }
+          ul { padding-left: 20px; }
+          li { margin-bottom: 4px; }
+        &lt;/style&gt;
+        &lt;h2&gt;Was ist neu in 1.2.0&lt;/h2&gt;
+        &lt;ul&gt;
+          &lt;li&gt;Count Mode: Wörter oder Zeichen zählen&lt;/li&gt;
+        &lt;/ul&gt;
+      ]]&gt;</description>
+      <enclosure url="https://github.com/mschoenbo/focusboundary-releases/releases/download/v1.2.0/FocusBoundary-1.2.0.zip" sparkle:edSignature="xvHMX9LEOr9hBWdy9Le8pH9job0fL8ytsF6otzcw9yo3n8TCf5VJuYqrgNumlw4ZNwwpjlnEdywe5kHesVLMAw==" length="6720672" type="application/octet-stream"/>
+    </item>
+    <item>
+      <title>Version 1.2.0</title>
+      <link>https://github.com/mschoenbo/focusboundary-releases/releases/tag/v1.2.0</link>
+      <pubDate>Sun, 04 Jan 2026 21:40:40 +0100</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;![CDATA[
+        &lt;style&gt;
+          body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
+          h2 { font-size: 16px; margin-bottom: 8px; }
+          ul { padding-left: 20px; }
+          li { margin-bottom: 4px; }
+        &lt;/style&gt;
+        &lt;h2&gt;Was ist neu in 1.2.0&lt;/h2&gt;
+        &lt;ul&gt;
+          &lt;li&gt;Count Mode: Wörter oder Zeichen zählen&lt;/li&gt;
+        &lt;/ul&gt;
+      ]]&gt;</description>
+      <enclosure url="https://github.com/mschoenbo/focusboundary-releases/releases/download/v1.2.0/FocusBoundary-1.2.0.zip" sparkle:edSignature="hPpVIrfvCbEZeqqzOz9JCaGVSRuEc7IzQT0jA9EcplyHx7xwmHun0xIvyylWXiLzTrlWfoDkTCIAt3FnpEtGCw==" length="6720687" type="application/octet-stream"/>
+    </item>
+    <item>
+      <title>Version 1.2.0</title>
+      <link>https://github.com/mschoenbo/focusboundary-releases/releases/tag/v1.2.0</link>
+      <pubDate>Sun, 04 Jan 2026 21:39:42 +0100</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;![CDATA[
+        &lt;style&gt;
+          body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
+          h2 { font-size: 16px; margin-bottom: 8px; }
+          ul { padding-left: 20px; }
+          li { margin-bottom: 4px; }
+        &lt;/style&gt;
+        &lt;h2&gt;Was ist neu in 1.2.0&lt;/h2&gt;
+        &lt;ul&gt;
+          &lt;li&gt;Count Mode: Wörter oder Zeichen zählen&lt;/li&gt;
+        &lt;/ul&gt;
+      ]]&gt;</description>
+      <enclosure url="https://github.com/mschoenbo/focusboundary-releases/releases/download/v1.2.0/FocusBoundary-1.2.0.zip" sparkle:edSignature="TU32nOyuHTcUA4ifknqaYxQKze2gYE9FfjJEaRMna4c+00J10TaUmMRT1Wae0zH+siKyHlnxvVVMi6CvhAcVBQ==" length="6720672" type="application/octet-stream"/>
+    </item>
     <item>
       <title>Version 1.1.2</title>
       <link>https://github.com/mschoenbo/focusboundary-releases/releases/tag/v1.1.2</link>
@@ -12,23 +75,19 @@
       <sparkle:version>4</sparkle:version>
       <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[
-        <style>
+      <description>
+        &lt;style&gt;
           body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
           h2 { font-size: 16px; margin-bottom: 8px; }
           ul { padding-left: 20px; }
           li { margin-bottom: 4px; }
-        </style>
-        <h2>Was ist neu in 1.1.2</h2>
-        <ul>
-          <li>Sparkle Auto-Update Konfiguration korrigiert</li>
-        </ul>
-      ]]></description>
-      <enclosure 
-        url="https://github.com/mschoenbo/focusboundary-releases/releases/download/v1.1.2/FocusBoundary-1.1.2.zip"
-        sparkle:edSignature="+ViG6DK0vXzACGhB0KVtwMyekBEyJal8n+aNePrSGNrzQvG44SYyIDCk5MXpCdv+m5Zu1s6i7OQ1oEEiIYs3Ag=="
-        length="6707761"
-        type="application/octet-stream"/>
+        &lt;/style&gt;
+        &lt;h2&gt;Was ist neu in 1.1.2&lt;/h2&gt;
+        &lt;ul&gt;
+          &lt;li&gt;Sparkle Auto-Update Konfiguration korrigiert&lt;/li&gt;
+        &lt;/ul&gt;
+      </description>
+      <enclosure url="https://github.com/mschoenbo/focusboundary-releases/releases/download/v1.1.2/FocusBoundary-1.1.2.zip" sparkle:edSignature="+ViG6DK0vXzACGhB0KVtwMyekBEyJal8n+aNePrSGNrzQvG44SYyIDCk5MXpCdv+m5Zu1s6i7OQ1oEEiIYs3Ag==" length="6707761" type="application/octet-stream"/>
     </item>
     <item>
       <title>Version 1.1.1</title>
@@ -37,23 +96,19 @@
       <sparkle:version>3</sparkle:version>
       <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[
-        <style>
+      <description>
+        &lt;style&gt;
           body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
           h2 { font-size: 16px; margin-bottom: 8px; }
           ul { padding-left: 20px; }
           li { margin-bottom: 4px; }
-        </style>
-        <h2>Was ist neu in 1.1.1</h2>
-        <ul>
-          <li>Neues App-Icon mit meditierendem Bloom-Companion</li>
-        </ul>
-      ]]></description>
-      <enclosure 
-        url="https://github.com/mschoenbo/focusboundary-releases/releases/download/v1.1.1/FocusBoundary-1.1.1.zip"
-        sparkle:edSignature="Qx8SRReAAWc+xbCIJDSB1ftQUyBYGFso3JDkxczQtiBjIq602nKlXjLK5QxvpTe2iklNgpbMckNCopduRqn6Bg=="
-        length="6707009"
-        type="application/octet-stream"/>
+        &lt;/style&gt;
+        &lt;h2&gt;Was ist neu in 1.1.1&lt;/h2&gt;
+        &lt;ul&gt;
+          &lt;li&gt;Neues App-Icon mit meditierendem Bloom-Companion&lt;/li&gt;
+        &lt;/ul&gt;
+      </description>
+      <enclosure url="https://github.com/mschoenbo/focusboundary-releases/releases/download/v1.1.1/FocusBoundary-1.1.1.zip" sparkle:edSignature="Qx8SRReAAWc+xbCIJDSB1ftQUyBYGFso3JDkxczQtiBjIq602nKlXjLK5QxvpTe2iklNgpbMckNCopduRqn6Bg==" length="6707009" type="application/octet-stream"/>
     </item>
     <item>
       <title>Version 1.1.0</title>
@@ -62,27 +117,23 @@
       <sparkle:version>2</sparkle:version>
       <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[
-        <style>
+      <description>
+        &lt;style&gt;
           body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
           h2 { font-size: 16px; margin-bottom: 8px; }
           ul { padding-left: 20px; }
           li { margin-bottom: 4px; }
-        </style>
-        <h2>Was ist neu in 1.1.0</h2>
-        <ul>
-          <li>Neuer Dokument-Tab mit Wortziel-Fortschrittsanzeige</li>
-          <li>Schreib-Serie Tracking (mit Ruhetag-Unterstützung)</li>
-          <li>Focus Mode mit DND-Integration</li>
-          <li>Korrigierte Fortschrittsring-Animation</li>
-          <li>Deutsche Übersetzungen für alle neuen UI-Elemente</li>
-        </ul>
-      ]]></description>
-      <enclosure 
-        url="https://github.com/mschoenbo/focusboundary-releases/releases/download/v1.1.0/FocusBoundary-1.1.0.zip"
-        sparkle:edSignature="YPXU7O/Dh6cV9l5E5t9k2Z26y09liE3ProEmuIMEbaEX3x4Dnm53363eL1EHo7iPfVnBSkTNGQku3BRAKz0yBQ=="
-        length="4418486"
-        type="application/octet-stream"/>
+        &lt;/style&gt;
+        &lt;h2&gt;Was ist neu in 1.1.0&lt;/h2&gt;
+        &lt;ul&gt;
+          &lt;li&gt;Neuer Dokument-Tab mit Wortziel-Fortschrittsanzeige&lt;/li&gt;
+          &lt;li&gt;Schreib-Serie Tracking (mit Ruhetag-Unterstützung)&lt;/li&gt;
+          &lt;li&gt;Focus Mode mit DND-Integration&lt;/li&gt;
+          &lt;li&gt;Korrigierte Fortschrittsring-Animation&lt;/li&gt;
+          &lt;li&gt;Deutsche Übersetzungen für alle neuen UI-Elemente&lt;/li&gt;
+        &lt;/ul&gt;
+      </description>
+      <enclosure url="https://github.com/mschoenbo/focusboundary-releases/releases/download/v1.1.0/FocusBoundary-1.1.0.zip" sparkle:edSignature="YPXU7O/Dh6cV9l5E5t9k2Z26y09liE3ProEmuIMEbaEX3x4Dnm53363eL1EHo7iPfVnBSkTNGQku3BRAKz0yBQ==" length="4418486" type="application/octet-stream"/>
     </item>
     <item>
       <title>Version 1.0.0</title>
@@ -91,23 +142,19 @@
       <sparkle:version>1</sparkle:version>
       <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[
-        <style>
+      <description>
+        &lt;style&gt;
           body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
           h2 { font-size: 16px; margin-bottom: 8px; }
           ul { padding-left: 20px; }
           li { margin-bottom: 4px; }
-        </style>
-        <h2>Was ist neu in 1.0.0</h2>
-        <ul>
-          <li>Initial release with focus timer and Bloom companion</li>
-        </ul>
-      ]]></description>
-      <enclosure 
-        url="https://github.com/mschoenbo/focusboundary-releases/releases/download/v1.0.0/FocusBoundary-1.0.0.zip"
-        sparkle:edSignature="zYfvpNrM+jKisvegfZIuoXJaN/1kedC+siVOEbApUHf77uoie22DjLzY4SxUIMzgVVea+KqCBWhzQOml5Jc4Bg=="
-        length="4105784"
-        type="application/octet-stream"/>
+        &lt;/style&gt;
+        &lt;h2&gt;Was ist neu in 1.0.0&lt;/h2&gt;
+        &lt;ul&gt;
+          &lt;li&gt;Initial release with focus timer and Bloom companion&lt;/li&gt;
+        &lt;/ul&gt;
+      </description>
+      <enclosure url="https://github.com/mschoenbo/focusboundary-releases/releases/download/v1.0.0/FocusBoundary-1.0.0.zip" sparkle:edSignature="zYfvpNrM+jKisvegfZIuoXJaN/1kedC+siVOEbApUHf77uoie22DjLzY4SxUIMzgVVea+KqCBWhzQOml5Jc4Bg==" length="4105784" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
