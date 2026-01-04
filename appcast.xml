@@ -6,6 +6,31 @@
     <description>Most recent updates to FocusBoundary</description>
     <language>en</language>
     <item>
+      <title>Version 1.1.1</title>
+      <link>https://github.com/mschoenbo/focusboundary-releases/releases/tag/v1.1.1</link>
+      <pubDate>Sun, 04 Jan 2026 15:42:00 +0100</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <style>
+          body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
+          h2 { font-size: 16px; margin-bottom: 8px; }
+          ul { padding-left: 20px; }
+          li { margin-bottom: 4px; }
+        </style>
+        <h2>Was ist neu in 1.1.1</h2>
+        <ul>
+          <li>Neues App-Icon mit meditierendem Bloom-Companion</li>
+        </ul>
+      ]]></description>
+      <enclosure 
+        url="https://github.com/mschoenbo/focusboundary-releases/releases/download/v1.1.1/FocusBoundary-1.1.1.zip"
+        sparkle:edSignature="Qx8SRReAAWc+xbCIJDSB1ftQUyBYGFso3JDkxczQtiBjIq602nKlXjLK5QxvpTe2iklNgpbMckNCopduRqn6Bg=="
+        length="6707009"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.1.0</title>
       <link>https://github.com/mschoenbo/focusboundary-releases/releases/tag/v1.1.0</link>
       <pubDate>Sun, 04 Jan 2026 15:18:34 +0100</pubDate>
