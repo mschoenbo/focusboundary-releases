@@ -27,48 +27,6 @@
       <enclosure url="https://github.com/mschoenbo/focusboundary-releases/releases/download/v1.2.0/FocusBoundary-1.2.0.zip" sparkle:edSignature="xvHMX9LEOr9hBWdy9Le8pH9job0fL8ytsF6otzcw9yo3n8TCf5VJuYqrgNumlw4ZNwwpjlnEdywe5kHesVLMAw==" length="6720672" type="application/octet-stream"/>
     </item>
     <item>
-      <title>Version 1.2.0</title>
-      <link>https://github.com/mschoenbo/focusboundary-releases/releases/tag/v1.2.0</link>
-      <pubDate>Sun, 04 Jan 2026 21:40:40 +0100</pubDate>
-      <sparkle:version>3</sparkle:version>
-      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>&lt;![CDATA[
-        &lt;style&gt;
-          body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
-          h2 { font-size: 16px; margin-bottom: 8px; }
-          ul { padding-left: 20px; }
-          li { margin-bottom: 4px; }
-        &lt;/style&gt;
-        &lt;h2&gt;Was ist neu in 1.2.0&lt;/h2&gt;
-        &lt;ul&gt;
-          &lt;li&gt;Count Mode: Wörter oder Zeichen zählen&lt;/li&gt;
-        &lt;/ul&gt;
-      ]]&gt;</description>
-      <enclosure url="https://github.com/mschoenbo/focusboundary-releases/releases/download/v1.2.0/FocusBoundary-1.2.0.zip" sparkle:edSignature="hPpVIrfvCbEZeqqzOz9JCaGVSRuEc7IzQT0jA9EcplyHx7xwmHun0xIvyylWXiLzTrlWfoDkTCIAt3FnpEtGCw==" length="6720687" type="application/octet-stream"/>
-    </item>
-    <item>
-      <title>Version 1.2.0</title>
-      <link>https://github.com/mschoenbo/focusboundary-releases/releases/tag/v1.2.0</link>
-      <pubDate>Sun, 04 Jan 2026 21:39:42 +0100</pubDate>
-      <sparkle:version>3</sparkle:version>
-      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>&lt;![CDATA[
-        &lt;style&gt;
-          body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
-          h2 { font-size: 16px; margin-bottom: 8px; }
-          ul { padding-left: 20px; }
-          li { margin-bottom: 4px; }
-        &lt;/style&gt;
-        &lt;h2&gt;Was ist neu in 1.2.0&lt;/h2&gt;
-        &lt;ul&gt;
-          &lt;li&gt;Count Mode: Wörter oder Zeichen zählen&lt;/li&gt;
-        &lt;/ul&gt;
-      ]]&gt;</description>
-      <enclosure url="https://github.com/mschoenbo/focusboundary-releases/releases/download/v1.2.0/FocusBoundary-1.2.0.zip" sparkle:edSignature="TU32nOyuHTcUA4ifknqaYxQKze2gYE9FfjJEaRMna4c+00J10TaUmMRT1Wae0zH+siKyHlnxvVVMi6CvhAcVBQ==" length="6720672" type="application/octet-stream"/>
-    </item>
-    <item>
       <title>Version 1.1.2</title>
       <link>https://github.com/mschoenbo/focusboundary-releases/releases/tag/v1.1.2</link>
       <pubDate>Sun, 04 Jan 2026 15:50:00 +0100</pubDate>
